@@ -1,0 +1,13 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "variable.js",
+  "scripts": {
+    "start": "tsc variable.ts && node variable.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
